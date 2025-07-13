@@ -94,64 +94,64 @@
   <div class="container">
 
     <div class="product">
-      <h2>Mini Beamer fürs Handy</h2>
-      <p>Kino-Feeling überall – mit diesem portablen Mini-Projektor für dein Smartphone!</p>
-      <a href="https://www.amazon.de/dp/B09TT8Q9KN?tag=trendhype24-21" target="_blank">Jetzt auf Amazon ansehen</a>
-    </div>
+  <h2>Mini Beamer fürs Handy</h2>
+  <p>Genieße Filme unterwegs oder im Schlafzimmer – kompakt, tragbar und ideal fürs Smartphone.</p>
+  <a href="https://amzn.to/451Yi92" target="_blank">Jetzt auf Amazon ansehen</a>
+</div>
 
-    <div class="product">
-      <h2>Magnetischer Handyhalter fürs Auto</h2>
-      <p>Nie wieder wackelnde Halterungen – bombenfest und ultra praktisch.</p>
-      <a href="https://www.amazon.de/dp/B07QMHVJ8Y?tag=trendhype24-21" target="_blank">Jetzt auf Amazon ansehen</a>
-    </div>
+<div class="product">
+  <h2>Magnetischer Handyhalter fürs Auto</h2>
+  <p>Starke Magnetkraft, schickes Design – sicherer Halt für dein Smartphone während der Fahrt.</p>
+  <a href="https://amzn.to/3TD8zSI" target="_blank">Jetzt auf Amazon ansehen</a>
+</div>
 
-    <div class="product">
-      <h2>Elektrischer Milchaufschäumer</h2>
-      <p>Barista-Qualität daheim – cremiger Milchschaum in Sekunden.</p>
-      <a href="https://www.amazon.de/dp/B08KHF31MN?tag=trendhype24-21" target="_blank">Jetzt auf Amazon ansehen</a>
-    </div>
+<div class="product">
+  <h2>Elektrischer Milchaufschäumer</h2>
+  <p>Perfekter Milchschaum für Cappuccino, Latte oder Kakao – ganz einfach zu Hause.</p>
+  <a href="https://amzn.to/4kBq1Sq" target="_blank">Jetzt auf Amazon ansehen</a>
+</div>
 
-    <div class="product">
-      <h2>LED-Lichter fürs Zimmer</h2>
-      <p>Verwandle dein Zimmer mit diesen flexiblen LED-Strips in eine bunte Wohlfühlzone.</p>
-      <a href="https://www.amazon.de/dp/B07WQ5S2RJ?tag=trendhype24-21" target="_blank">Jetzt auf Amazon ansehen</a>
-    </div>
+<div class="product">
+  <h2>LED-Lichter fürs Zimmer</h2>
+  <p>RGB-Streifen mit Fernbedienung – schaffe deine eigene chillige Atmosphäre.</p>
+  <a href="https://amzn.to/4lRD03A" target="_blank">Jetzt auf Amazon ansehen</a>
+</div>
 
-    <div class="product">
-      <h2>Faltbarer Wasserkocher für unterwegs</h2>
-      <p>Ultraleicht, kompakt und perfekt für Reisen.</p>
-      <a href="https://www.amazon.de/dp/B07X8V7M1L?tag=trendhype24-21" target="_blank">Jetzt auf Amazon ansehen</a>
-    </div>
+<div class="product">
+  <h2>Faltbarer Wasserkocher für unterwegs</h2>
+  <p>Ultrakompakt, ideal für Reisen, Camping oder Büro – heißes Wasser überall verfügbar.</p>
+  <a href="https://amzn.to/4nMnoA0" target="_blank">Jetzt auf Amazon ansehen</a>
+</div>
 
-    <div class="product">
-      <h2>Anti-Stress-Knautschball</h2>
-      <p>Der virale Anti-Stress-Ball für Schule, Büro oder einfach zwischendurch.</p>
-      <a href="https://www.amazon.de/dp/B09LHD25CD?tag=trendhype24-21" target="_blank">Jetzt auf Amazon ansehen</a>
-    </div>
+<div class="product">
+  <h2>Anti-Stress-Knautschball</h2>
+  <p>Stressabbau für Schule, Arbeit oder Freizeit – weich, bunt und super angenehm in der Hand.</p>
+  <a href="https://amzn.to/3GwRYgt" target="_blank">Jetzt auf Amazon ansehen</a>
+</div>
 
-    <div class="product">
-      <h2>Küchen-Multischneider</h2>
-      <p>Spare Zeit in der Küche mit diesem praktischen All-in-One Gemüseschneider!</p>
-      <a href="https://www.amazon.de/dp/B085DC8MCP?tag=trendhype24-21" target="_blank">Jetzt auf Amazon ansehen</a>
-    </div>
+<div class="product">
+  <h2>Küchen-Multischneider</h2>
+  <p>Schneidet, würfelt, raspelt – der perfekte Küchenhelfer für Gemüse & Co.</p>
+  <a href="https://amzn.to/44Zk6C6" target="_blank">Jetzt auf Amazon ansehen</a>
+</div>
 
-    <div class="product">
-      <h2>Mini-Luftventilator fürs Handy</h2>
-      <p>Klein, stark, angenehm – direkt am Handy einstecken und abkühlen.</p>
-      <a href="https://www.amazon.de/dp/B08QMDJMXG?tag=trendhype24-21" target="_blank">Jetzt auf Amazon ansehen</a>
-    </div>
+<div class="product">
+  <h2>Mini-Luftventilator fürs Handy</h2>
+  <p>Einfach einstecken & abkühlen – ideal für heiße Sommertage unterwegs.</p>
+  <a href="https://amzn.to/4lWAZ6l" target="_blank">Jetzt auf Amazon ansehen</a>
+</div>
 
-    <div class="product">
-      <h2>Stylischer Rucksack – Minimal Design</h2>
-      <p>Ideal für Alltag, Uni und Reisen. Trendiger Look mit viel Platz.</p>
-      <a href="https://www.amazon.de/dp/B08J8NCJ3R?tag=trendhype24-21" target="_blank">Jetzt auf Amazon ansehen</a>
-    </div>
+<div class="product">
+  <h2>Stylischer Rucksack – Minimal Design</h2>
+  <p>Schlicht, modern und praktisch – für Uni, Arbeit oder Reisen geeignet.</p>
+  <a href="https://amzn.to/468jGdS" target="_blank">Jetzt auf Amazon ansehen</a>
+</div>
 
-    <div class="product">
-      <h2>AirTag Schlüsselanhänger</h2>
-      <p>Nie wieder Schlüssel verlieren – mit Apple AirTag kompatibel.</p>
-      <a href="https://www.amazon.de/dp/B09BQZ8KLC?tag=trendhype24-21" target="_blank">Jetzt auf Amazon ansehen</a>
-    </div>
+<div class="product">
+  <h2>AirTag Schlüsselanhänger</h2>
+  <p>Perfekt für Apple AirTags – stylisch & sorgt dafür, dass du nie wieder deinen Schlüssel verlierst.</p>
+  <a href="https://amzn.to/44Jw55p" target="_blank">Jetzt auf Amazon ansehen</a>
+</div>
 
   </div>
 
