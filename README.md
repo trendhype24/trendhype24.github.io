@@ -6,6 +6,10 @@
   <title>TrendHype24 – Amazon Must-Haves</title>
   <style>
     body {
+      <!-- Logo oben auf der Seite -->
+<div style="text-align:center; margin-top: 20px;">
+  <img src="logo.png" alt="TrendHype24 Logo" width="200">
+</div>
       font-family: Arial, sans-serif;
       background-color: #fff;
       color: #111;
