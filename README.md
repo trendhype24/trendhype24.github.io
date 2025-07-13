@@ -4,6 +4,22 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>TrendHype24 – Amazon Must-Haves</title>
+
+  <!-- Favicon -->
+  <link rel="icon" href="favicon.png" type="image/png">
+
+  <!-- SEO Meta-Tags -->
+  <meta name="description" content="Entdecke bei TrendHype24 die beliebtesten Amazon Must-Haves – stylisch, smart & praktisch. Täglich neue Deals & virale Produkte!">
+  <meta name="keywords" content="Amazon Must-Haves, Trendprodukte, Gadgets, Bestseller, Technik, Lifestyle, Geschenkideen">
+  <meta name="author" content="TrendHype24">
+
+  <!-- Social Sharing -->
+  <meta property="og:title" content="TrendHype24 – Amazon Must-Haves">
+  <meta property="og:description" content="Dein Portal für virale Amazon-Produkte & smarte Trends.">
+  <meta property="og:image" content="logo.png">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://trendhype24.github.io/">
+
   <style>
     body {
       font-family: 'Segoe UI', sans-serif;
@@ -15,7 +31,7 @@
     header {
       background-color: #ff3c3c;
       color: white;
-      padding: 1.5rem 1rem 1rem;
+      padding: 2rem 1rem 1rem;
       text-align: center;
     }
     header img {
@@ -72,6 +88,7 @@
   <header>
     <img src="logo.png" alt="TrendHype24 Logo" />
     <h1>TrendHype24 – Entdecke Amazon Must-Haves</h1>
+    <p style="font-style: italic;">Täglich neue Bestseller und virale Produkte direkt aus dem Amazon-Universum.</p>
   </header>
 
   <div class="container">
