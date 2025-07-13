@@ -150,7 +150,7 @@
 <div class="product">
   <h2>AirTag Schlüsselanhänger</h2>
   <p>Perfekt für Apple AirTags – stylisch & sorgt dafür, dass du nie wieder deinen Schlüssel verlierst.</p>
-  <a href="https://amzn.to/44Jw55p" target="_blank">Jetzt auf Amazon ansehen</a>
+  <a href="https://amzn.to/4eMZ4da" target="_blank">Jetzt auf Amazon ansehen</a>
 </div>
 
   </div>
